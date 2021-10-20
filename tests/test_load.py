@@ -1,5 +1,5 @@
 import unittest
-import mixon
+from src import mixon
 
 SAMPLE_PATH = "tests/sample.mixon"
 EXPECTED = {
